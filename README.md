@@ -5,7 +5,7 @@
 - 🐈My name is Kostas and am a Front End Engineer as a goal🎯 to be a 💪Full Stack Expert🦾 	(🤙am on my way🤙)
 
 
-- 🌱 I’m currently learning React JS and all the technologies that surrounding this area (Typescript, Redux, Remix, Material UI etc..). I keep expanding my knowledge in Computer Science field with an MSc in University of Piraeus (Greece)..
+- 🌱 I’m currently learning React JS and all the technologies that surrounding this area (Typescript, Redux, Remix, Next.js Material UI etc..). I keep expanding my knowledge in Computer Science field with an MSc in University of Piraeus (Greece)..
 
 
 - 👯 I’m looking to collaborate with companies that will increase my skills on a friendly enviroment!
