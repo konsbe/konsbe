@@ -1,6 +1,6 @@
 ### Hi there 🤙🪁
 
-<!--🌀🌀🌀
+🌀🌀🌀
 
 - 🐈My name is Kostas and am a Front End Engineer as a goal🎯 to be a 💪Full Stack DevOps Expert🦾 	(🤙am on my way🤙)
 
@@ -20,4 +20,4 @@
 
 
 -I love 🌊 🌪️	🌟 and of course WEB 🕸️ and PROGRAMMING 💻
-🌀🌀🌀--> 
+🌀🌀🌀
