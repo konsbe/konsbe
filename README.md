@@ -21,4 +21,6 @@
 
 -I love 🌊 🌪️	🌟 and of course WEB 🕸️ and PROGRAMMING 💻
 
+npx create-WORLD
+
 🌀🌀🌀
