@@ -23,8 +23,8 @@
    "HowToReachMe" : [
       {
          "email" : "kons.be@outlook.com | bring your ideas to make them happen 💥",
-         "linkedIn" : " https://www.linkedin.com/in/konstantinos-berdelis-520722188/ 💬",
-         "twitter" : " https://twitter.com/mperdememore 📫",
+         "linkedIn" : " linkedIn_Profile below 💬",
+         "twitter" : " twitter_Profile below 📫",
       }
       ],
    "passionateAbout": [ "Software Engineering 🖥️", "Programming", "WEB 🕸️", "🌊 🌪️	🌟" ],
@@ -32,3 +32,5 @@
    "lets": [ "npx create-WORLD 🌀" , "ng new WORLD 🌀", "vue create WORLD 🌀", "npx create-next-app@latest 🌀",  ]
 }
 ```
+[linkedIn_Profile](https://www.linkedin.com/in/konstantinos-berdelis-520722188)<br/>
+[twitter_Profile](https://twitter.com/mperdememore)
