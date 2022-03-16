@@ -23,8 +23,8 @@
    "HowToReachMe" : [
       {
          "email" : "kons.be@outlook.com | bring your ideas to make them happen 💥",
-         "linkedIn" : "[personal_profile](https://www.linkedin.com/in/konstantinos-berdelis-520722188/) 💬",
-         "twitter" : "[personal_profile](https://twitter.com/mperdememore) 📫",
+         "linkedIn" : " https://www.linkedin.com/in/konstantinos-berdelis-520722188/ 💬",
+         "twitter" : " https://twitter.com/mperdememore 📫",
       }
       ],
    "passionateAbout": [ "Software Engineering 🖥️", "Programming", "WEB 🕸️", "🌊 🌪️	🌟" ],
