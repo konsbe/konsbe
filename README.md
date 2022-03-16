@@ -2,8 +2,8 @@
 
 ```
 {
-   "fullName": "🐈hellomynameis Konstantinos", 
-   "nickname": "🐈kober", 
+   "fullName": "🐫hellomynameis Konstantinos", 
+   "nickname": "🐐kober", 
    "headline" : "Front End Engineer", 
    "languages" : [ "Javascript", "Typescript", "Python", "C" ],
    "goal" : ["💪Full Stack Expert🦾  🎯  (🤙am on my way🤙)"]
