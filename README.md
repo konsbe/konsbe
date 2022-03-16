@@ -14,7 +14,7 @@
          "Institute" : "University of Piraeus, UoP",
          "inProgress" : true
       },
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{
+      {
          "degree" : " Agricultural Engineer👨‍🌾",
          "MsC" : "Soil Science and Agricultural Chemistry🌴",
          "Institute" : "Agriculrural University of Athens ⛩️",
