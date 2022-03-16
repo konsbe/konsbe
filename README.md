@@ -10,7 +10,7 @@
    "technologiesThisPeriod" : ["Typescript", "Redux", "Remix", "Next.js", "Material UI", "React Query"]
    "education" : [
       {
-         "degree" : "Master in Informatics",
+         "degree" : "Master in Computer Science",
          "Institute" : "University of Piraeus, UoP",
          "inProgress" : true
       },
