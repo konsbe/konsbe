@@ -2,7 +2,7 @@
 
 ```
 {
-   "fullName": "🐫hellomynameis Konstantinos", 
+   "fullName": "🐫helloMynNameIs Konstantinos", 
    "nickname": "🐐kober", 
    "headline" : "Front End Engineer", 
    "languages" : [ "Javascript", "Typescript", "Python", "C" ],
