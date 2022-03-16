@@ -1,7 +1,7 @@
 ### Hi there 🤙🪁
 
 ```
-{</br>
+{
    "fullName": "🐈hellomynameis Konstantinos", 
    "nickname": "🐈kober", 
    "headline" : "Front End Engineer", 
