@@ -11,17 +11,17 @@
    "education" : [
       {
          "degree" : "Master in Computer Science",
-         "type": " MsC "
+         "type": " MsC 🎓"
          "Institute" : "University of Piraeus, UoP",
       },
       {
          "degree" : "Soil Science and Agricultural Chemistry🌴🌾",
-         "type" : " Msc "
+         "type" : " Msc 🎓"
          "Institute" : "Agriculrural University of Athens ⛩️",
       },
       {
          "degree" : " Agricultural Engineer👨‍🌾",
-         "type" : " Bachelor ",
+         "type" : " Bachelor 🎓",
          "Institute" : "Agriculrural University of Athens ⛩️",
       }
    ],
