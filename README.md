@@ -10,17 +10,17 @@
    "technologiesThisPeriod" : ["Typescript", "Remix", "Next.js", "React Query", "Redux", "Material UI/ MUI","and more..."]
    "education" : [
       {
-         "degree" : "Master in Computer Science",
+         "degree" : "Master in Computer Science 💽",
          "type": " MsC 🎓"
-         "Institute" : "University of Piraeus, UoP",
+         "Institute" : "University of Piraeus, UoP ⛩️",
       },
       {
-         "degree" : "Soil Science and Agricultural Chemistry🌴🌾",
+         "degree" : "Soil Science and Agricultural Chemistry 🌾",
          "type" : " Msc 🎓"
          "Institute" : "Agriculrural University of Athens ⛩️",
       },
       {
-         "degree" : " Agricultural Engineer👨‍🌾",
+         "degree" : " Agricultural Engineer 🚜",
          "type" : " Bachelor 🎓",
          "Institute" : "Agriculrural University of Athens ⛩️",
       }
