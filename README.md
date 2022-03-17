@@ -5,9 +5,9 @@
    "fullName": "🐫helloMynNameIs Konstantinos", 
    "nickname": "🐐kober", 
    "headline" : "Front End Engineer", 
-   "languages" : [ "Javascript", "Typescript", "Python", "C" ],
+   "languages" : [ "Javascript", "Typescript", "HTML", "CSS", "Python", "C" ],
    "goal" : ["💪Full Stack Expert🦾  🎯  (🤙am on my way🤙)"]
-   "technologiesThisPeriod" : ["Typescript", "Redux", "Remix", "Next.js", "Material UI", "React Query"]
+   "technologiesThisPeriod" : ["Typescript", "Remix", "Next.js", "React Query", "Redux", "Material UI/ MUI"]
    "education" : [
       {
          "degree" : "Master in Computer Science",
