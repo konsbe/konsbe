@@ -17,12 +17,12 @@
       {
          "degree" : "Soil Science and Agricultural Chemistry 🌾",
          "type" : " Msc 🎓"
-         "Institute" : "Agriculrural University of Athens ⛩️",
+         "Institute" : "Agriculrural University of Athens, AUA ⛩️",
       },
       {
          "degree" : " Agricultural Engineer 🚜",
          "type" : " Bachelor 🎓",
-         "Institute" : "Agriculrural University of Athens ⛩️",
+         "Institute" : "Agriculrural University of Athens, AUA ⛩️",
       }
    ],
    "HowToReachMe" : [
