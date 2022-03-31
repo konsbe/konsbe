@@ -34,7 +34,7 @@
       ],
    "passionateAbout": [ "Software Engineering 🖥️", "Programming", "WEB 🕸️", "🌊 🌪️ 🌟" ],
    "lookingFor" : ["collaborate with companies/projects that will increase my skills on a friendly enviroment!"],
-   "lets": [ "npx create-WORLD 🌀" , "ng new WORLD 🌀", "vue create WORLD 🌀", "npx create-next-app@latest 🌀",  ]
+   "lets": [ "npx create-WORLD 🌀" , "ng new WORLD 🌀", "vue create WORLD 🌀", "npx create-next-app@latest WORLD🌀",  ]
 }
 ```
 [linkedIn_Profile](https://www.linkedin.com/in/konstantinos-berdelis-520722188)<br/>
