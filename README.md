@@ -33,6 +33,7 @@
       }
       ],
    "passionateAbout": [ "Software Engineering 🖥️", "Programming", "WEB 🕸️", "🌊 🌪️ 🌟" ],
+   "inLoveWith": [i3 wm]
    "lookingFor" : ["collaborate with companies/projects that will increase my skills on a friendly enviroment!"],
    "lets": [ "npx create-WORLD 🌀" , "ng new WORLD 🌀", "vue create WORLD 🌀", "npx create-next-app@latest WORLD🌀",  ]
 }
