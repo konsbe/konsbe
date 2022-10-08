@@ -7,7 +7,10 @@
    "headline" : [ "Software Engineer", "Full-stack developer" ]
    "languages" : [ "Javascript", "Typescript", "HTML", "CSS", "Python", "C" ],
    "goal" : ["💪Full Stack Expert🦾  🎯  (🤙am on my way🤙)"]
-   "technologiesThisPeriod" : ["Typescript", "Remix", "Next.js", "Express.js", "React Query", "Redux", "Material UI/ MUI","and more..."]
+   "technologiesThisPeriod" : [
+                                 "React", "Remix", "Next.js", "Express.js", "React Query", "Redux",
+                                 "Maps", "Charts & Graphs", "mui - Scss", "and more..."
+                               ]
    "education" : [
       {
          "degree" : "Master in Computer Science 💽",
