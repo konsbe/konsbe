@@ -2,7 +2,7 @@
 
 ```
 {
-   "fullName": "🐫helloMynNameIs Konstantinos", 
+   "fullName": "🐫hellomynameIs Konstantinos", 
    "nickname": "🐐kober", 
    "headline" : [ "Software Engineer", "Full-stack developer" ]
    "programming-languages" : [ "Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "C" ],
