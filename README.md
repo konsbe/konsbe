@@ -6,6 +6,7 @@
    "nickname": "🐐kober", 
    "headline" : [ "Software Engineer", "Full-stack developer" ]
    "programming-languages" : [ "Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "C" ],
+   "databases" : [ "MongoDB & Cloud Atlas", "Firebase", "MySQL", "postgreSQL", "sqLite" ],
    "goal" : ["💪Full Stack Expert🦾  🎯  (🤙am on my way🤙)"]
    "technologiesThisPeriod" : [
                                  "React", "Remix", "Next.js", "Express.js", "React Query", "Redux",
