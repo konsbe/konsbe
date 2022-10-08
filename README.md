@@ -9,8 +9,8 @@
    "databases" : [ "MongoDB & Cloud Atlas", "Firebase", "MySQL", "postgreSQL", "sqLite" ],
    "goal" : ["💪Full Stack Expert🦾  🎯  (🤙am on my way🤙)"]
    "technologiesThisPeriod" : [
-                                 "React", "Remix", "Next.js", "Express.js", "React Query", "Redux",
-                                 "Maps", "Charts & Graphs", "mui - Scss", "and more..."
+                                 "Node.js", "React", "Remix", "Next.js", "Express.js", "React Query",
+                                  "Redux", "Maps", "Charts & Graphs", "mui - Scss", "and more..."
                                ]
    "education" : [
       {
