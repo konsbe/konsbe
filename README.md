@@ -5,7 +5,7 @@
    "fullName": "🐫helloMynNameIs Konstantinos", 
    "nickname": "🐐kober", 
    "headline" : [ "Software Engineer", "Full-stack developer" ]
-   "languages" : [ "Javascript", "Typescript", "HTML", "CSS", "Python", "C" ],
+   "programming-languages" : [ "Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "C" ],
    "goal" : ["💪Full Stack Expert🦾  🎯  (🤙am on my way🤙)"]
    "technologiesThisPeriod" : [
                                  "React", "Remix", "Next.js", "Express.js", "React Query", "Redux",
