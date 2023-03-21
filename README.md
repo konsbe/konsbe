@@ -8,8 +8,10 @@
    "programming-languages" : [ "Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "C" ],
    "databases" : [ "MongoDB & Cloud Atlas", "Firebase", "MySQL", "postgreSQL", "sqLite" ],
    "technologies" : [
-      "front-end": [ "Node.js", "React", "Vue", "Remix", "Next.js", "React Query",
-      "Redux", "Vuetify", "mui - Scss", "Maps", "D3", HighCharts, "and more..."]
+      "front-end": [ 
+         "Node.js", "React", "Vue", "Remix", "Next.js", "React Query",
+         "Redux", "Vuetify", "mui - Scss", "Maps", "D3", HighCharts, "and more..."
+      ]
       "back-end": [ "Express.js", "Spring Boot" ]
    ],
    "inLoveWith": ["i3 wm"]
