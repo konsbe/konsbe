@@ -11,10 +11,10 @@
       "front-end": [ 
          "Node.js", "React", "Vue", "Remix", "Next.js", "React Query",
          "Redux", "Vuetify", "mui - Scss", "Maps", "D3", HighCharts, "and more..."
-      ]
+      ],
       "back-end": [ "Express.js", "Spring Boot" ]
    ],
-   "inLoveWith": ["i3 wm"]
+   "inLoveWith": ["i3 wm"],
    "lookingFor" : ["collaborate with companies/products and projects that will increase my skills or the society on a friendly enviroment!"],
    "lets": [ "npx create-WORLD 🌀" , "ng new WORLD 🌀", "vue create WORLD 🌀", "npx create-next-app@latest WORLD🌀",  ]
 }
