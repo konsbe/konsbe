@@ -3,8 +3,7 @@
 <span>text</span>
 ```
 {
-   "fullName": "🐫hellomynameIs Konstantinos", 
-   "nickname": "🐐kober", 
+   "fullName": "hellomynameis 🐐kober", 
    "headline" : [ "Software Engineer", "Full-stack developer" ]
    "programming-languages" : [ "Javascript", "Typescript", "HTML", "CSS", "Python", "Java", "C" ],
    "databases" : [ "MongoDB & Cloud Atlas", "Firebase", "MySQL", "postgreSQL", "sqLite" ],
