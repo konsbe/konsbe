@@ -9,7 +9,7 @@
    "databases" : [ "MongoDB & Cloud Atlas", "Firebase", "MySQL", "postgreSQL", "sqLite" ],
    "technologies" : [
       "front-end": [ "Node.js", "React", "Vue", "Remix", "Next.js", "React Query",
-      "Redux", "Vuetify", "mui - Scss", "Maps", "D#", HighCharts, "and more..."]
+      "Redux", "Vuetify", "mui - Scss", "Maps", "D3", HighCharts, "and more..."]
       "back-end": [ "Express.js", "Spring Boot" ]
    ],
    "inLoveWith": ["i3 wm"]
