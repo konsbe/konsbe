@@ -22,4 +22,3 @@
 <a href="https://gist.github.com/konsbe/b0479287a53f01a8cf18483a237277f4"> cryptohack gist</a>
 
 [linkedIn_Profile](https://www.linkedin.com/in/konstantinos-berdelis-520722188)<br/>
-[twitter_Profile](https://twitter.com/mperdememore)
