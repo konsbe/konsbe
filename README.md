@@ -12,7 +12,7 @@
          "Node.js", "React", "Vue", "Remix", "Next.js", "React Query",
          "Redux", "Vuetify", "mui - Scss", "Maps", "D3", HighCharts, "and more..."
       ],
-      "back-end": [ "Express.js", "Spring Boot" ]
+      "back-end": [ "Express.js", "Spring Boot","FastAPI" ]
    ],
    "inLoveWith": ["i3 wm"],
    "lookingFor" : ["collaborate with companies/products and projects that will increase my skills or the society on a friendly enviroment!"],
