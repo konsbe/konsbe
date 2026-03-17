@@ -6,8 +6,14 @@
 {
    "fullName": "hellomynameis 🐐kober", 
    "headline" : [ "Software Engineer", "Full-stack developer" ],
-   "programming-languages" : [ "Javascript", "Typescript", "Golang", "Shell/ Script", "yaml", "HTML", "CSS/ Sass", "Python", "Java", "C" ],
-   "databases" : [ "Redis", "Victoria Metrics", "ClickHouse" "MongoDB & Cloud Atlas", "Firebase", "MySQL", "postgreSQL", "sqLite", "Supabase" ],
+   "programming-languages" : [ 
+      "Javascript", "Typescript", "Golang", "Shell/ Script", "Python", 
+      "Java", "yaml", "HTML", "CSS/ Sass", "C" 
+   ],
+   "databases" : [ 
+      "MySQL", "postgreSQL", "sqLite", "Supabase", "Redis", 
+      "Victoria Metrics", "ClickHouse" "MongoDB & Cloud Atlas", "Firebase" 
+   ],
    "technologies" : {
       "front-end": [ 
          "Node.js", "React", "Vue", "Remix", "Next.js", "React Query", "Angular"
@@ -18,10 +24,10 @@
    },
    "inLoveWith": ["i3 wm"],
    "lookingFor" : [ 
-                     "collaborate with companies/products and projects that will increase my skills", 
-                     "make impact to the society",
-                     "share knowledge and push our limits together on a friendly environment!"
-                  ],
+      "collaborate with companies/products and projects that will increase my skills", 
+      "make impact to the society",
+      "share knowledge and push our limits together on a friendly environment!"
+   ],
    "lets": [ "npx create-WORLD@latest 🌀" ]
 }
 ```
